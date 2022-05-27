@@ -2,7 +2,7 @@ import "./App.css";
 import React, { useState } from "react";
 
 function App() {
-  let [num, setNum] = useState(0);
+  const [num, setNum] = useState(0);
 
   const setNumber = (e) => {
     setNum(num + e);
