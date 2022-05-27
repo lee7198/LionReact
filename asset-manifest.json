@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lee7198/LionReact.git/static/css/main.073c9b0a.css",
+    "main.js": "/lee7198/LionReact.git/static/js/main.d30ae741.js",
+    "static/js/787.5ee7efff.chunk.js": "/lee7198/LionReact.git/static/js/787.5ee7efff.chunk.js",
+    "index.html": "/lee7198/LionReact.git/index.html",
+    "main.073c9b0a.css.map": "/lee7198/LionReact.git/static/css/main.073c9b0a.css.map",
+    "main.d30ae741.js.map": "/lee7198/LionReact.git/static/js/main.d30ae741.js.map",
+    "787.5ee7efff.chunk.js.map": "/lee7198/LionReact.git/static/js/787.5ee7efff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d30ae741.js"
+  ]
+}
